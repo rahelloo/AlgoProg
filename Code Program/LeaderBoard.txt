@@ -1,0 +1,6 @@
+Steve;9
+Hallo;3
+Rahel;2
+Tony;1
+Nancy;1
+Heylo;1
